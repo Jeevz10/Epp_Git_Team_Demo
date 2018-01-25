@@ -5,7 +5,7 @@ All statements starts as "Code A" in this file
 ********************/
 
 X. Code Duo Fibonacci
-X. Code Uno Prime
+X. Code Duo Fibonacci
 X. Code Uno Prime
 4. Code A
 X. Code Uno Prime
